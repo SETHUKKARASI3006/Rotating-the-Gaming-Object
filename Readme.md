@@ -59,5 +59,6 @@ public class NewBehaviourScript : MonoBehaviour
 ```
 ## Output:
 ![output](<Screenshot 2024-03-07 105918.png>)
+
 ## Result:
 Thus the rotating of 3D object in unity is successfully executed.
